@@ -1,0 +1,6 @@
+# Прокси (опционально)
+# Формат: http://user:pass@ip:port
+
+# Примеры:
+# http://user:pass@1.2.3.4:8080
+# socks5://user:pass@1.2.3.4:1080

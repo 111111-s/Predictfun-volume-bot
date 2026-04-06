@@ -1,0 +1,18 @@
+# ══════════════════════════════════════════════════════════════════
+#                    PREDICT.FUN MARKETS
+# ══════════════════════════════════════════════════════════════════
+# Формат: "ID" или "ID:yes" или "ID:no"
+# Узнать ID: меню "Show all markets"
+# ══════════════════════════════════════════════════════════════════
+
+markets:
+  - "1562"   # Arsenal - English Premier League
+  - "1018"   # Opinion token - March 31, 2026
+  - "897"    # Opensea FDV - $500M
+  - "1518"   # Spain - FIFA World Cup 2026
+  - "5532"   # Fed rates - No change
+  - "941"    # MegaETH - >$2B
+  - "6133"   # BNB - $850
+  - "2107"   # Trump Greenland
+  - "991"    # Polymarket token - June 30, 2026
+  - "5072"   # Apple AAPL - $250

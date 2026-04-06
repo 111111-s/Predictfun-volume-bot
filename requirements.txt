@@ -1,0 +1,33 @@
+# Predict.fun Split Bot Dependencies
+# =====================================
+
+# Predict.fun Official SDK
+# https://pypi.org/project/predict-sdk/
+# https://github.com/PredictDotFun/sdk-python
+predict-sdk>=0.0.8
+
+# Web3 & Crypto
+web3>=6.0.0,<8.0.0
+eth-account>=0.11.0
+eth-abi>=5.0.0
+
+# HTTP & Async
+aiohttp>=3.9.0
+
+# Config
+pyyaml>=6.0.0
+
+# Logging
+loguru>=0.7.0
+
+# Utils
+python-dotenv>=1.0.0
+
+# CLI Menu
+questionary>=2.0.0
+
+# Wallet encryption (optional - for encrypted wallets.json)
+cryptography>=42.0
+
+# HD Wallet generation (optional - for mnemonic-based wallets)
+mnemonic>=0.20
